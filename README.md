@@ -1,2 +1,2 @@
-# ShreenavKhandelwal
+# Projects
 Projects
